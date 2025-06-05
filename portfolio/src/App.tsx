@@ -156,7 +156,7 @@ const Portfolio = () => {
             </div>
             <div className="flex items-center gap-2 text-gray-300 hover:text-blue-400 transition-colors duration-300">
               <Mail size={20} />
-              <span>rrajayush1@gmail.com</span>
+              <span>ayush@xayush.com</span>
             </div>
             <a
               href="https://www.linkedin.com/in/mr-ayush-raj/"
@@ -326,7 +326,7 @@ const Portfolio = () => {
             <span>Contact me</span>
           </a>
           <a
-            href="mailto:rrajayush1@gmail.com"
+            href="mailto:ayush@xayush.com"
             className="flex items-center gap-3 bg-purple-600 hover:bg-purple-700 text-white px-8 py-4 rounded-full transition-all duration-300 hover:transform hover:scale-110 hover:shadow-lg"
           >
             <Mail size={20} />
