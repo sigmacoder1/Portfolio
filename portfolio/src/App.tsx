@@ -319,11 +319,11 @@ const Portfolio = () => {
         </p>
         <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
           <a
-            href="tel:+9170044295376"
+            href="tel:+917004429537"
             className="flex items-center gap-3 bg-blue-600 hover:bg-blue-700 text-white px-8 py-4 rounded-full transition-all duration-300 hover:transform hover:scale-110 hover:shadow-lg"
           >
             <Phone size={20} />
-            <span>Call Me</span>
+            <span>Contact me</span>
           </a>
           <a
             href="mailto:rrajayush1@gmail.com"
